@@ -1,0 +1,27 @@
+/**
+ * AppHeader
+ */
+.header {
+  /* colors */
+  background-color: #f7f7f7;
+  color: #444;
+
+  /* aestethic */
+  border-radius: 2px;
+
+  /* placement */
+  padding: 0.46rem;
+  /*margin: 0.46rem;*/
+}
+
+/**
+ * AppMenu
+ */
+aside > .menu {
+  /* colors */
+  background-color: #f3f2f0;
+
+  /* placement */
+  padding-top: 0.4rem;
+  padding-left: 1rem;
+}
